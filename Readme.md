@@ -24,3 +24,14 @@
   * 자율주행 자동차
   * "인공지능 시스템을 통한 완전 자율주행 자동차는 운전자의 운전 조작이 전혀 없이 자동차 스스로 주행 환경을 인식해 목표 지점까지 운행함에 따라 운전자의 부주의로 인한 교통사고를 미연에 예방하고, 편리한 운전 환경을 제공할 수 있게 된다."
   * [참고](http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=202&sub=001&idx=31532)
+
+
+---
+
+## 돈이말해 YouTube SEO / Content Engine
+
+경제·금융 YouTube 채널 **돈이말해**용 주제 발굴 → 검색 의도 → 팩트체크 → 제목 → 대본 → 설명란 → 태그/해시태그 → 썸네일 → 성과 측정 워크플로우입니다.
+
+- [youtube-seo/README.md](youtube-seo/README.md)
+- [youtube-seo/SKILL.md](youtube-seo/SKILL.md)
+
